@@ -165,13 +165,8 @@ LAST	Len	"Martyn Hurll"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q215622	P768	Q3334655	P102	Q9624	P1111	12478	P1352	2	S4656	"https://en.wikipedia.org/wiki/Christchurch_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Mike Cox"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q3334655	P102	Q9624	P1111	9277	P1352	2	S4656	"https://en.wikipedia.org/wiki/Christchurch_(UK_Parliament_constituency)"
-LAST	P3602	Q25052149	P768	Q3334655	P102	Q9624	P1111	4020	P1352	3	S4656	"https://en.wikipedia.org/wiki/Christchurch_(UK_Parliament_constituency)"
+Q75838686	P3602	Q30173038	P768	Q3334655	P102	Q9624	P1111	9277	P1352	2	S4656	"https://en.wikipedia.org/wiki/Christchurch_(UK_Parliament_constituency)"
+Q75838686	P3602	Q25052149	P768	Q3334655	P102	Q9624	P1111	4020	P1352	3	S4656	"https://en.wikipedia.org/wiki/Christchurch_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Nigel Lickley"
