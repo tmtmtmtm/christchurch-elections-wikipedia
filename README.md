@@ -35,6 +35,15 @@ Five to create:
 * wb ce create-new-party.js "Rainbow Alliance"
 * wb ce create-new-party.js "Chauvinist Raving Alliance"
 
+Later update:
+
+Turns out there are actually a few others that are mis-linked in
+Wikipedia, so also need new items to change the links to:
+
+* wb ce create-new-party.js "Sack Graham Taylor" (Q98600480)
+* wb ce create-new-party.js "Buy the Daily Sport" (Q98600481)
+* wb ce create-new-party.js "Save the National Health Service" (Q98600482)
+
 Ste 3: Check for missing election IDs
 =====================================
 
