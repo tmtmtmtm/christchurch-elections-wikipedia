@@ -1,0 +1,20 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Christchurch_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q3334655",
+    "start": "1983",
+    "end": "9999"
+  }, {
+    "id": "Q45584819",
+    "start": "1832",
+    "end": "1918"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
